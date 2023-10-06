@@ -1,0 +1,23 @@
+.footer-wrapper{
+  display: flex;
+  justify-content: space-between;
+  padding: 5rem 3rem;
+  align-items: center;
+  text-align: center;
+  background-color: rgb(179, 178, 178);
+}
+.basic-info{
+  display: flex;
+  align-items: center;
+}
+.footer-icons{
+  margin: 10px;
+}
+.footer-copyright{
+  background-color: gray;
+}
+.footer-copyright .container{
+  text-align: center;
+  padding: 15px;
+
+}
